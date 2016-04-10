@@ -5,7 +5,7 @@
 $PluginInfo['CookieConsent'] = array(
     'Name' => 'Cookie Consent',
     'Description' => 'This plugin allows you to put a cookie consent banner on your Forum',
-    'Version' => '0.5 Beta',
+    'Version' => '0.6 dev',
     'Author' => "Timucin Besken",
     'AuthorEmail' => 'beskent@gmail.com',
     'AuthorUrl' => 'http://gaming-italian-group.com',
