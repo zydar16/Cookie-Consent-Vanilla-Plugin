@@ -23,10 +23,6 @@ echo $this->Form->errors();
         echo $this->Form->textbox('Plugin.CookieConsent.LearnMore');
         ?></li>
     <li><?php
-        echo $this->Form->label(T('Plugins.CookieConsent.Link', 'URL to more info'), 'Plugin.CookieConsent.Link');
-        echo $this->Form->textbox('Plugin.CookieConsent.Link');
-        ?></li>
-    <li><?php
         echo $this->Form->label(T('Plugins.CookieConsent.Theme', 'Theme of the banner'), 'Plugin.CookieConsent.Theme');
         echo $this->Form->dropDown('Plugin.CookieConsent.Theme', array(
             'dark-top' => 'Dark Top',
