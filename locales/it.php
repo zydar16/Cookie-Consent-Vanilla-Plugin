@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('APPLICATION')) exit();
 $Definition['Plugins.CookieConsent.MessageText'] = 'Testo del Messaggio';
 $Definition['Plugins.CookieConsent.DismissText'] = 'Testo per accettare';
 $Definition['Plugins.CookieConsent.LearnMoreText'] = 'Testo per ulteriori informazioni';
